@@ -1,7 +1,7 @@
 
 • 🌸 Hi, my name is Maryam Abdul Halim </p>
 • 📊 I am interested in anything related to data</p>
-• 🧠 I am currently learning deep learning</p>
+• 🧠 I am currently learning python</p>
 • 💼 Reach me at <a href="https://www.linkedin.com/in/maryamabdhalim/">LinkedIn</a> | <a href="https://sites.google.com/view/maryamhalim/home?authuser=0">My Portfolio</a>
 
 <!--
