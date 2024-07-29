@@ -1,7 +1,7 @@
 
 • 🌸 Hi, my name is Maryam Abdul Halim </p>
 • 📊 I am interested in applying data analysis to the healthcare industries</p>
-• 🧠 I am currently learning python and predictive modeling</p>
+• 🧠 I am currently learning machine learning</p>
 • 💼 Reach me at <a href="https://www.linkedin.com/in/maryamabdhalim/">LinkedIn</a> | <a href="https://sites.google.com/view/maryamhalim/home?authuser=0">My Portfolio</a>
 
 <!--
